@@ -15,7 +15,7 @@ Baptist University.
 * _Note: the shortcut sometimes does
   not work; if this happens, the EXE
   is "Summarizer.exe" in "Summarizer
-  App > Release".
+  App > Release"._
 
 ### Contribution guidelines ###
 
