@@ -13,9 +13,9 @@ Baptist University.
 * Download the contents (all).
 * Run the shortcut on the top level.
 * _Note: the shortcut sometimes does
-  not work; if this happens, the EXE
-  is "Summarizer.exe" in "Summarizer
-  App > Release"._
+  not work; if this happens, the executable
+  it is supposed to link to is "Summarizer.exe"
+  in "Summarizer App > Release"._
 
 ### Contribution guidelines ###
 
