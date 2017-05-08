@@ -4,6 +4,8 @@ This is the portable distribution version of the Summarizer
 app, built for our Senior Capstone project at California
 Baptist University.
 
+---
+
 ## Usage Details ##
 
 ### How do I get it set up? ###
@@ -30,6 +32,8 @@ loading the document and generating the "summaries"
 (even if you click on it and Windows labels the app
 as "Not Responding"). We did not design any "loading"
 graphic element to indicate internal activity.
+
+---
 
 ## Project Info ##
 
